@@ -54,7 +54,7 @@ console.log(twoDemocrats);
 const lyndon = presidents.find(lyndon => lyndon.name === "Lyndon Johnson"); 
 
 if (lyndon.terms === 2) {
-    console.log('LBJ served two terms');
+  console.log('LBJ served two terms');
 } else {
   console.log('LBJ was one and done');
 }
